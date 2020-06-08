@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PicApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="comment">Comment</string>
+    <string name="your_comment">Your comment</string>
+    <string name="upload">upload</string>
+    <string name="uploaded_photo">uploaded photo</string>
+    <string name="open_camera">open camera</string>
+    <string name="name">name</string>
+    <string name="photo_name">photo name</string>
+    <string name="description">Description</string>
+    <string name="photo_description">Photo description</string>
+    <string name="comments">Comments:</string>
+</resources>
